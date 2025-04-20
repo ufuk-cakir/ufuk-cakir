@@ -1,8 +1,15 @@
-[![Profile visits](https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir)](https://github.com/ufuk-cakir)
-# 👋 Hey, I am Ufuk Çakır
-I’m a DPhil student at the Intelligent Earth CDT in AI for the Environment, University of Oxford.
-At the Oxford Robotics Institute I am currently working on safe‑exploration RL methods for disaster response.  
-I like to build algorithms, open‑source tools and dashboards that bridge ML theory with real‑world impact.
+<p align="center">
+  <img src="https://github.com/ufuk-cakir.png" width="120" style="border-radius:50%" alt="avatar"/>
+  <h1 align="center">👋 Hi, I’m Ufuk Çakır</h1>
+  <p align="center">
+    <a href="https://github.com/ufuk-cakir/"><img src="https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir" alt="profile visits"/></a>
+  </p>
+
+- DPhil student @ Intelligent Earth CDT in AI for the Environment 🌎 
+- GOALS Group @ Oxford Robotics Institute 🤖
+- Safe‑exploration RL for disaster response ⛑️
+- Building open‑source tools & dashboards that connect ML theory with impact
+ 
 
 ---
 
@@ -17,6 +24,7 @@ I like to build algorithms, open‑source tools and dashboards that bridge ML th
 - **MEGS**  
   Morphological Evaluation of Galactic Structure (MEGS) implements PCA in Python to compress mass, metallicity and stellar‑age maps from the IllustrisTNG simulation into a low‑dimensional feature space that reflects true morphological similarity. It reduces 2D image dimensions by ~200x and 3D cube dimensions by ~3650x while holding reconstruction error below 5%. MEGS delivers an interpretable generative model for galaxies, ready for downstream tasks such as classification and structural analysis.
 
+
   🔗 [Code](https://github.com/ufuk-cakir/MEGS)
   🔗 [Paper, _Astronomy & Astrophysics_](https://www.aanda.org/articles/aa/full_html/2024/11/aa51262-24/aa51262-24.html)
 
@@ -27,9 +35,32 @@ I like to build algorithms, open‑source tools and dashboards that bridge ML th
   🔗 [Code](https://github.com/ufuk-cakir/ESO)
   🔗 [Paper (ICLR, 2024, Remote Sensing Workshop)](https://ml-for-rs.github.io/iclr2024/camera_ready/papers/51.pdf)
 
-- **GAMMA Dataset**  
+- **GAMMA Dataset**
   Public dataset of mass, metallicity & age attributes for galaxies (Zenodo).
+
+
   🔗 [Data](https://zenodo.org/records/8375344)
   🔗 [Paper, NeurIPS'23 (ML4PS)](https://arxiv.org/abs/2312.06016)
+
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufuk-cakir&theme=default" alt="Streak stats"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:ufukcakir@robots.ox.ac.uk">✉️ Email</a>&nbsp;&nbsp;|&nbsp;
+  <a href="https://cakir-ufuk.de">🌐 Website</a>&nbsp;&nbsp;|&nbsp;
+  <a href="https://twitter.com/ufuk_cakir">🐦 Twitter</a>
+</p>
 
 ---
