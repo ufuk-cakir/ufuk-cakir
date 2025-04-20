@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Ufuk Çakır</h1>
-      <p align="center">
-        <!-- <a href="https://github.com/ufuk-cakir/"> -->
-        <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir" alt="profile visits"/> -->
-        <!-- </a> -->
-      </p>
+
 - DPhil student @ Intelligent Earth CDT in AI for the Environment 🌎
 - GOALS Group @ Oxford Robotics Institute 🤖
 - Safe‑exploration RL for disaster response ⛑️
