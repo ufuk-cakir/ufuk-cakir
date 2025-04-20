@@ -1,11 +1,11 @@
-<table align="center">
+<table>
   <tr>
     <td valign="top">
       <h1 align="center">👋 Hi, I’m Ufuk Çakır</h1>
       <p align="center">
-        <a href="https://github.com/ufuk-cakir/">
-          <img src="https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir" alt="profile visits"/>
-        </a>
+        <!-- <a href="https://github.com/ufuk-cakir/"> -->
+        <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir" alt="profile visits"/> -->
+        <!-- </a> -->
       </p>
       <ul>
         <li>DPhil student @ Intelligent Earth CDT in AI for the Environment 🌎</li>
@@ -17,6 +17,13 @@
   </tr>
 </table>
  
+## 📫 Connect
+<p align="center">
+  <a href="mailto:ufukcakir@robots.ox.ac.uk">✉️ Email</a>&nbsp;&nbsp;|&nbsp;
+  <a href="https://cakir-ufuk.de">🌐 Website</a>&nbsp;&nbsp;|&nbsp;
+  <a href="https://twitter.com/ufuk_cakir">🐦 Twitter</a>
+</p>
+
 
 ---
 
@@ -62,12 +69,3 @@
 
 ---
 
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:ufukcakir@robots.ox.ac.uk">✉️ Email</a>&nbsp;&nbsp;|&nbsp;
-  <a href="https://cakir-ufuk.de">🌐 Website</a>&nbsp;&nbsp;|&nbsp;
-  <a href="https://twitter.com/ufuk_cakir">🐦 Twitter</a>
-</p>
-
----
