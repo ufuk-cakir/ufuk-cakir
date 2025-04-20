@@ -1,21 +1,13 @@
-<table>
-  <tr>
-    <td valign="top">
-      <h1 align="center">👋 Hi, I’m Ufuk Çakır</h1>
+# 👋 Hi, I’m Ufuk Çakır</h1>
       <p align="center">
         <!-- <a href="https://github.com/ufuk-cakir/"> -->
         <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ufuk-cakir.ufuk-cakir" alt="profile visits"/> -->
         <!-- </a> -->
       </p>
-      <ul>
-        <li>DPhil student @ Intelligent Earth CDT in AI for the Environment 🌎</li>
-        <li>GOALS Group @ Oxford Robotics Institute 🤖</li>
-        <li>Safe‑exploration RL for disaster response ⛑️</li>
-        <li>Building open‑source tools & dashboards that connect ML theory with impact</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- DPhil student @ Intelligent Earth CDT in AI for the Environment 🌎
+- GOALS Group @ Oxford Robotics Institute 🤖
+- Safe‑exploration RL for disaster response ⛑️
+- Building open‑source tools & dashboards that connect ML theory with impact
  
 ## 📫 Connect
 <p align="center">
