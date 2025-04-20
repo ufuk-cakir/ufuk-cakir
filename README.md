@@ -9,7 +9,6 @@
 <p align="center">
   <a href="mailto:ufukcakir@robots.ox.ac.uk">✉️ Email</a>&nbsp;&nbsp;|&nbsp;
   <a href="https://cakir-ufuk.de">🌐 Website</a>&nbsp;&nbsp;|&nbsp;
-  <a href="https://twitter.com/ufuk_cakir">🐦 Twitter</a>
 </p>
 
 
